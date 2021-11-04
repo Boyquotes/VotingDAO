@@ -1,0 +1,17 @@
+{
+  "name": "voting",
+  "version": "0.0.1",
+  "description": "Voting system",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boyquotes",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  }
+}
